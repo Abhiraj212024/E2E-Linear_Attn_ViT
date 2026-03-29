@@ -1,6 +1,6 @@
-# E2E Linear Attention Vision Transformers
+# GSoC 2026 Submission
 
-**GSoC 2024 Submission: End-to-End Classification and Regression using Linear Attention Vision Transformers**
+**End-to-End Deep Learning (E2E): Linear attention vision transformers for end to end mass regression and classification**
 
 ## Overview
 
