@@ -18,7 +18,7 @@ The dataset consists of high-energy physics jet images with 8 channels, preproce
 
 ### Public Kaggle Dataset
 The processed dataset has been made publicly available on Kaggle:
-- **Dataset Name:** [Jet Data ViT](https://www.kaggle.com/datasets/YOUR_KAGGLE_USERNAME/jet-data-vit)
+- **Dataset Name:** [Jet Data ViT](https://www.kaggle.com/datasets/abhirajraje/jet-data-vit)
 - **Contents:** 
   - Unlabelled images for MAE pretraining (60,000 samples)
   - Labelled images for multitask learning (10,000 samples with class, mass, and pT labels)
