@@ -125,11 +125,11 @@ jupyter notebook xcit-multitask-mae.ipynb
 
 2. **Stage 2 (Fine-tuning, 30 epochs):**
    - Unfreeze backbone
-   - Backbone LR: 3e-5 (conservative learning rate)
+   - Backbone LR: 5e-5 (conservative learning rate)
    - Head LR: 1e-3
 
 **Loss Weights:**
-- Classification: 1.0 (cross-entropy)
+- Classification: 2.0 (cross-entropy)
 - Mass regression: 1.0 (MSE)
 - pT regression: 1.0 (MSE)
 - Total: W_CLS·CE + W_MASS·MSE + W_PT·MSE
